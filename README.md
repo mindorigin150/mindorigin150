@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="https://my-stats.vercel.app/api?username=mindorigin150&show_icons=true&theme=default" alt="My GitHub Stats" width="52%"/>
-  <img src="https://my-stats.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=default" alt="Top Langs" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mindorigin150&show_icons=true&theme=default" alt="My GitHub Stats" width="52%"/>
+  
+  <!-- 修正点：jupyter notebook 改成了 jupyter%20notebook -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=default&hide=jupyter%20notebook" alt="Top Langs" width="38%"/>
 </p>
 
 I'm a second-year college student in Zhejiang University, minoring in ACEE(Advanced honor Class of Engineering Education) of CKC college.

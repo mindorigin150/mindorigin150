@@ -17,10 +17,10 @@ I'm interested in computer science and engineering.
   - 🚲 Cycling!
   - 🏸 Badminton!
 
-If you find my soul interesting, welcome to contact me!
+If you find me interesting, welcome to contact me!
 
 How to reach me:
-- 📫 Email: 1501454486@qq.com
+- 📫 Email: xinyuanli2327@outlook.com
 
 ### Skills
 <p align="center">

@@ -17,7 +17,7 @@
 
 I'm a second-year college student at **Zhejiang University**, minoring in **ACEE** (Advanced Honor Class of Engineering Education) of CKC college.
 
-- 🔭 **Focus:** Currently working on **Spatial Intelligence**.
+- 🔭 **Focus:** Currently working on **Spatial Intelligence**. Also, I'm interested in mlsys and so on...
 - 🌱 **Goal:** Dream of pursuing a **Computer Science PhD** degree at one of the top-four universities in the US!
 - ⚡ **Interests:** Computer Science & Engineering.
 

@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20mindorigin150&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20there!%20👋&fontSize=50&fontAlignY=35&animation=fadeIn" alt="Header"/>
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ I'm a second-year college student at **Zhejiang University**, minoring in **ACEE
 
 <p align="center">
     <!-- 常用语言统计 -->
-    <img width="60%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&cache_seconds=3600" alt="Top Langs"/>
+    <img width="44%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&cache_seconds=3600" alt="Top Langs"/>
 </p>
 
 ---

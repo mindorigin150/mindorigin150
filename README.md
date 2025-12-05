@@ -34,13 +34,13 @@ I'm a second-year college student at **Zhejiang University**, minoring in **ACEE
 
 <p align="center">
     <!-- 左边是综合统计，右边是连续打卡天数 -->
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mindorigin150&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api?username=mindorigin150&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats"/>
     <img width="49%" src="https://streak-stats.demolab.com?user=mindorigin150&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
     <!-- 常用语言统计 -->
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8" alt="Top Langs"/>
+    <img width="60%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&cache_seconds=3600" alt="Top Langs"/>
 </p>
 
 ---

@@ -3,30 +3,38 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=ZJU+Student+%F0%9F%8E%93;Spatial+Intelligence+Researcher+%F0%9F%94%AD;Future+CS+PhD+%F0%9F%9A%80;Piano+%26+Cycling+Lover+%F0%9F%8E%B9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Junior+Undergrad+@+Zhejiang+University;Researching+Embodied+AI+%26+World+Models;Looking+for+2026+Summer+Research!+%F0%9F%9A%80;Piano+%26+Cycling+Lover+%F0%9F%8E%B9" alt="Typing SVG" />
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=mindorigin150&color=41B883&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/mindorigin150?label=Followers&style=social" alt="GitHub Followers"/>
+    <!-- 增加一个显眼的按钮指向学术主页 -->
+    <a href="YOUR_PERSONAL_WEBSITE_LINK_HERE">
+        <img src="https://img.shields.io/badge/🏠_Visit_My_Academic_Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+    </a>
+    <a href="mailto:xinyuanli2327@outlook.com">
+        <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
 </p>
 
 ---
 
 ### 🧐 About Me
+I am a Junior Undergraduate at **Zhejiang University** (CKC Honors College), majoring in **Control Science & Engineering**. 
+My research passion lies in **Spatial Intelligence**, specifically:
+*   🤖 **Embodied AI & Robotics:** Generalist agents & VLAs.
+*   🌍 **World Models:** Video generation as interactive environments.
+*   🧠 **Foundation Models:** VLMs and UMMs reasoning.
+> **📢 News (Jan 2026):** I am actively looking for **2026 Summer Research Opportunities**! If you are interested in my background, please check my Academic Homepage [<sup>1</sup>](YOUR_PERSONAL_WEBSITE_LINK_HERE) or reach out via email.
 
-I'm a junior at **Zhejiang University**, minoring in **ACEE** (Advanced Honor Class of Engineering Education) of CKC college.
+---
 
-- 🔭 **Focus:** Currently working on **Spatial Intelligence**. Also, I'm interested in mlsys and so on...
-- 🌱 **Goal:** Dream of pursuing a **Computer Science PhD** degree at one of the top-four universities in the US!
-- ⚡ **Interests:** Computer Science & Engineering.
+### 🛠️ Tech Stack
 
-**🧘 Hobbies:**
-- 🎹 **Piano!** Especially pieces arranged by *Amenzz*.
-- 🚲 **Cycling!**
-- 🏸 **Badminton!**
-
-📫 **Reach me:** [xinyuanli2327@outlook.com](mailto:xinyuanli2327@outlook.com)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,linux,latex,md,vim,docker,git,github,bash&perline=15" />
+  </a>
+</p>
 
 ---
 
@@ -45,32 +53,9 @@ I'm a junior at **Zhejiang University**, minoring in **ACEE** (Advanced Honor Cl
 
 ---
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,linux,latex,md,vim,docker,git,github&perline=15" />
-  </a>
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mindorigin150&theme=vue&hide_border=true&area=true&custom_title=Contribution%20Trend" alt="Contribution Graph"/>
 </p>
 
----
-
-### 🏆 Achievements
-
-<p align="center">
-    <img width="98%" src="https://github-profile-trophy.vercel.app/?username=mindorigin150&theme=vue&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-<p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>

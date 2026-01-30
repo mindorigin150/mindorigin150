@@ -8,7 +8,7 @@
 
 <p align="center">
     <!-- 增加一个显眼的按钮指向学术主页 -->
-    <a href="YOUR_PERSONAL_WEBSITE_LINK_HERE">
+    <a href="https://mindorigin150.github.io">
         <img src="https://img.shields.io/badge/🏠_Visit_My_Academic_Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
     </a>
     <a href="mailto:xinyuanli2327@outlook.com">

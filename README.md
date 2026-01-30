@@ -42,8 +42,8 @@ My research passion lies in **Spatial Intelligence**, specifically:
 
 <p align="center">
     <!-- 左边是综合统计，右边是连续打卡天数 -->
-    <img width="48%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api?username=mindorigin150&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats"/>
-    <img width="44%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&cache_seconds=3600" alt="Top Langs"/>
+    <img width="52%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api?username=mindorigin150&show_icons=true&theme=vue&hide_border=true&locale=en&include_all_commits=true&count_private=true&cache_seconds=3600" alt="GitHub Stats"/>
+    <img width="38%" src="https://github-readme-stats-puce-gamma-57.vercel.app/api/top-langs/?username=mindorigin150&layout=compact&theme=vue&hide_border=true&hide=Jupyter%20Notebook&langs_count=8&cache_seconds=3600" alt="Top Langs"/>
 </p>
 
 <p align="center">

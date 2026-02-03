@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Junior+Undergrad+@+Zhejiang+University;Researching+Embodied+AI+%26+World+Models;Looking+for+2026+Summer+Research!+%F0%9F%9A%80;Piano+%26+Cycling+Lover+%F0%9F%8E%B9" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&vCenter=true&width=600&lines=Junior+Undergrad+@+Zhejiang+University;Researching+Embodied+AI+%26+World+Models;Looking+for+2026+Summer+Research!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-    <!-- 增加一个显眼的按钮指向学术主页 -->
     <a href="https://mindorigin150.github.io">
-        <img src="https://img.shields.io/badge/🏠_Visit_My_Academic_Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+        <img src="https://img.shields.io/badge/🏠_Visit_My_Homepage-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
     </a>
     <a href="mailto:xinyuanli2327@outlook.com">
         <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -24,8 +23,6 @@ My research passion lies in **Spatial Intelligence**, specifically:
 *   🤖 **Embodied AI & Robotics:** Generalist agents & VLAs.
 *   🌍 **World Models:** Video generation as interactive environments.
 *   🧠 **Foundation Models:** VLMs and UMMs reasoning.
-> **📢 News (Jan 2026):** I am actively looking for **2026 Summer Research Opportunities**! If you are interested in my background, please check my Academic Homepage [<sup>1</sup>](YOUR_PERSONAL_WEBSITE_LINK_HERE) or reach out via email.
-
 ---
 
 ### 🛠️ Tech Stack
